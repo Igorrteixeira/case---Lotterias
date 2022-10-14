@@ -7,7 +7,7 @@
 * Responsivo para celulares
 * Altera a cor conforme o concurso escolhido
 
-link Deploy: loterias-finger.surge.sh
+link Deploy: http://loterias-finger.surge.sh/
 
 
 ![Captura de tela 2022-10-14 142315](https://user-images.githubusercontent.com/102987283/195921313-f026a156-5b39-45f0-ba2e-d78c185c803f.png)
