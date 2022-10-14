@@ -3,7 +3,7 @@
 ### Projeto Font-End
 
 * ### Funcionalidade
-* Mostrar numeros do sorteio de acordo com consurso escolhido.
+* Mostrar numeros do sorteio de acordo com o concurso escolhido.
 * Responsivo para celulares
 * Altera a cor conforme o concurso escolhido
 
